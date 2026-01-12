@@ -1,3 +1,5 @@
+**Safe Navigation of Autonomous Vehicles in Work Zones**
+
 <img width="2330" height="858" alt="Overview_figurew" src="https://github.com/user-attachments/assets/588f80ee-5bf3-42d9-ae3d-b75f257f07f1" />
 
 This repository hosts links to the video demonstrations from our U.S. Department of Transportation (USDoT) Automated Driving Systems (ADS) project on the safe navigation of autonomous vehicles (AVs) in roadway work zones.
@@ -6,7 +8,7 @@ The videos shows the CMU AV stack CADRE (Connected and Autonomous Driving Reseac
 
 This GitHub repository is referenced in our article:
 
-“Towards Safe Navigation of Autonomous Vehicles in Work Zones: Challenges and Real-World Experiences” (submitted to IEEE Transactions on Vehicular Technology).
+“Towards Safe Navigation of Connected and Autonomous Vehicles in Work Zones: Challenges, Frameworks, and Real-World Experiences” (to be submitted to IEEE Transactions on Vehicular Technology).
 
 Cosimulation Testing Using ***CoSim*** : https://drive.google.com/drive/folders/1Hs3VjVJ12ByQH5BaiAk_casUxplG6hjM?usp=drive_link
 
