@@ -1,4 +1,4 @@
-**Safe Navigation of Autonomous Vehicles in Work Zones**
+                                   **Safe Navigation of Autonomous Vehicles in Work Zones**
 
 <img width="2330" height="858" alt="Overview_figurew" src="https://github.com/user-attachments/assets/588f80ee-5bf3-42d9-ae3d-b75f257f07f1" />
 
