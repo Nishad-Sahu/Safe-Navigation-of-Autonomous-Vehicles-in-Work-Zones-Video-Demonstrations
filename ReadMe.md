@@ -8,3 +8,16 @@ This GitHub repository is referenced in our article:
 
 “Towards Safe Navigation of Autonomous Vehicles in Work Zones: Challenges and Real-World Experiences” (submitted to IEEE Transactions on Vehicular Technology).
 
+Cosimulation Testing Using ***CoSim*** : https://drive.google.com/drive/folders/1Hs3VjVJ12ByQH5BaiAk_casUxplG6hjM?usp=drive_link
+
+**Real-World Closed Test-Track Testing using only Perception** : https://drive.google.com/drive/folders/1wvcHAjrCo5ikB14IsFt61RwPnzmVC3cA?usp=drive_link  
+
+**Real-World Closed Test-Track Testing using only CV2X** : https://drive.google.com/drive/folders/1uA9hRAWG8HXHuTufX_x6veknyhjvGFFF?usp=drive_link 
+
+**CADRE GUI Display in Real-World Testing** : https://drive.google.com/drive/folders/1sDnCfu6pdDldLVZSqQUYU0D0TrCYr00E?usp=drive_link
+
+**Public-Road Demonstrations** : 
+
+1. Highway Work Zone with Merge and Lane Shift: https://drive.google.com/file/d/1ovCXZkFSn0DlAzsAx267nIBr1dUsfObs/view?usp=drive_link
+2. Traffic-Light Controlled Rural Workzone: https://drive.google.com/file/d/1Us-chLrZfvO_3M1jAj8f5lvW5hPIx6e1/view?usp=drive_link
+3. Mobile Work Zone (Line-painting): https://drive.google.com/file/d/1bOlm06gvIX02VjJKNr4vOkoWdb4Qp5Nv/view?usp=drive_link
