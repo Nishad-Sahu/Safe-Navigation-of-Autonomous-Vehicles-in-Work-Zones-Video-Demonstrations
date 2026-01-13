@@ -8,7 +8,7 @@ The videos shows the CMU AV stack CADRE (Connected and Autonomous Driving Reseac
 
 This GitHub repository is referenced in our article:
 
-**“Towards Safe Navigation of Connected and Autonomous Vehicles in Work Zones: Challenges, Frameworks, and Real-World Experiences”** (to be submitted to IEEE Transactions on Vehicular Technology).
+**“Towards Safe Navigation of Connected and Autonomous Vehicles in Work Zones: Challenges and Real-World Experiences”** (to be submitted to IEEE Transactions on Vehicular Technology).
 
 > Cosimulation Testing Using ***CoSim*** : https://drive.google.com/drive/folders/1Hs3VjVJ12ByQH5BaiAk_casUxplG6hjM?usp=drive_link
 
