@@ -23,3 +23,16 @@ This GitHub repository is referenced in our article:
 > 1. Highway Work Zone with Merge and Lane Shift: https://drive.google.com/file/d/1ovCXZkFSn0DlAzsAx267nIBr1dUsfObs/view?usp=drive_link
 > 2. Traffic-Light Controlled Rural Workzone: https://drive.google.com/file/d/1Us-chLrZfvO_3M1jAj8f5lvW5hPIx6e1/view?usp=drive_link
 > 3. Mobile Work Zone (Line-painting): https://drive.google.com/file/d/1bOlm06gvIX02VjJKNr4vOkoWdb4Qp5Nv/view?usp=drive_link
+
+**_SafeRoute++_ Demonstration** :
+
+Videos of the initial **_SafeRoute_** framework can be found at this link: https://github.com/Nishad-Sahu/SafeRoute
+
+Citation for _**SafeRoute**_ :
+
+**_N. Sahu, A. Bhat and R. Rajkumar, "SafeRoute: Risk-Minimizing Cooperative Real-Time Route and Behavioral Planning for Autonomous Vehicles," 2024 IEEE 27th International Conference on Intelligent Transportation Systems (ITSC), Edmonton, AB, Canada_
+**
+
+**_SafeRoute++_** augments _**SafeRoute**_ by converting raw work zone information to semantic level information for better real-time performance. It also adds a decay factor to the work zone infornation and integrates mobile work zone object. 
+
+The following video shows **_SafeRoute++_** converting raw work zone infomation recieved via V2X/cloud into semantic information in CADRE simulation : https://drive.google.com/file/d/1ESwaSdSyFCEOVvsOjXX6pMYDJiG0WWTZ/view?usp=sharing
