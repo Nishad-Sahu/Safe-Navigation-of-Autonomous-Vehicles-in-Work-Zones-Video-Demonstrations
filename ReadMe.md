@@ -1,6 +1,6 @@
 <p align="center">Safe Navigation of Autonomous Vehicles in Work Zones</p>
 
-<img width="2330" height="858" alt="Overview_figurew" src="https://github.com/user-attachments/assets/588f80ee-5bf3-42d9-ae3d-b75f257f07f1" />
+<img width="1422" height="468" alt="Overview_figurew (1)" src="https://github.com/user-attachments/assets/13c7b050-786c-4cb3-9a25-4f948550785e" />
 
 This repository hosts links to the video demonstrations from our U.S. Department of Transportation (USDoT) Automated Driving Systems (ADS) project on the safe navigation of autonomous vehicles (AVs) in roadway work zones.
 
